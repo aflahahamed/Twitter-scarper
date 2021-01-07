@@ -1,5 +1,5 @@
 # Twitter-scarper
-This is a scraper for twitter data using Tweepy library. Tweepy is an easy to use python library for accessing Twitter API. The documentation for the library is at http://docs.tweepy.org/en/latest/install.html
+This is a scraper for twitter data using Tweepy library. Tweepy is an easy-to-use python library for accessing Twitter API. The documentation for the library is at http://docs.tweepy.org/en/latest/install.html
 
 # Problem Statement
 To scrape data for specific user or ceratin topic available on twitter.
@@ -14,6 +14,6 @@ Acquiring data and using Pandas DataFrame to properly arrange the raw data.
 Take the required parameters having specific data types which we can use and tabulate the data.
 
 # Application
-This approach can be used to scrape Data regarding a ceratain product.
+This approach can be used to scrape Data regarding a certain product.
 The data can be used for sentiment analysis by plotting key words in a visualizing library to know customer feedback.
 NLP techniques can be implemented on the data and used for further analysis.
